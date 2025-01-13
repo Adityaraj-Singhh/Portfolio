@@ -405,7 +405,7 @@ a{
     transform: scale(1.1);
 }
 #project1{
-    background-image: url(car1.png);
+    background-image: url(Food.png);
 }
 #project2{
     margin-left: 120px;
@@ -433,24 +433,27 @@ a{
     flex-direction: column;
 }
 
-.skills-container-right{
+/* .skills-container-right{
     display: flex;
     flex-wrap: wrap;
     width: 50%;
     position: relative;
-    gap: 2rem;
+    gap: 4rem;
     justify-content: center;
-}
+} */
+
 .skill-fade-text{
     position: absolute;
     font-size: 15em;
     font-style: bold;
     color: rgb(231,231,231);
     bottom: -34.5%;
-    right: -25%;user-select: none;
+    right: -13%;
+    user-select: none;
     overflow-y: hidden;
-    
 }
+
+
 .skills-logo{
     width: 90px;
 }
@@ -588,4 +591,8 @@ footer{
     display: flex;
     gap: 1rem;
     margin-left: 600px;
+}
+
+#btn-resume{
+    margin-top: 20px;
 }
