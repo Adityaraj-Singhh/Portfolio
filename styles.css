@@ -405,18 +405,18 @@ a{
     transform: scale(1.1);
 }
 #project1{
-    background-image: url(Food.png);
+    background-image: url(donation.png);
 }
 #project2{
     margin-left: 120px;
-    background-image: url(car2.png);
+    background-image: url(learn.png);
 }
 #project3{
-    background-image: url(bike1.png);
+    background-image: url(Food.png);
 }
 #project4{
     margin-left: 120px; 
-    background-image: url(bike2.png);
+    background-image: url(ai.png);
 }
 
 .skills-container{
